@@ -1310,7 +1310,7 @@ body.offcanvas {
       padding: 1rem;
       line-height: 1.5rem;
       border-top: 1px solid;
-      border-image: linear-gradient(to right, transparent, #111111, transparent) 1;
+      border-image: linear-gradient(to right, transparent, #020007, transparent) 1;
     }
 
     .accordion-item-header.active + .accordion-item-body {
