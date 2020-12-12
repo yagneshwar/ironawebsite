@@ -1354,8 +1354,8 @@ body.offcanvas {
 
     .flex-child {
       flex: 1;
-      border: 3px solid yellow;
-      background-color: rgb(238, 156, 4);
+      border: 3px solid rgb(80, 78, 78);
+      background-color: rgb(216, 216, 137);
       box-sizing: border-box;
       height: 200px;
       text-align: center;
