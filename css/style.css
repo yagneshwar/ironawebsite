@@ -387,7 +387,7 @@ body.offcanvas {
   padding-bottom: 9em;
   clear: both;
   width: 100%;
-  display: block; }
+  display: flex; }
   @media screen and (max-width: 768px) {
     .colorlib-blog,
     .colorlib-work,
@@ -1316,3 +1316,34 @@ body.offcanvas {
     .accordion-item-header.active + .accordion-item-body {
       max-height: 500px;
     } 
+
+    .flex-container {
+      display: flex;
+      width: 100%;
+      margin: auto;
+      padding: 10px;
+    }
+
+    .flex-child1 {
+      flex: 1;
+      width: 50%;
+      margin: auto;
+      padding: 10px;
+    } 
+
+    .flex-child2 {
+      width: 50%;
+      flex: 1;
+      height: 500px;
+      margin-left: 30%;
+    }
+    .section {
+      widows: auto;
+      height: 500px;
+      margin: 20px;
+    }
+    .header {
+      width:auto;
+      height:100px;
+      padding:10px;
+    }
