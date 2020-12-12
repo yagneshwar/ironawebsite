@@ -1354,11 +1354,12 @@ body.offcanvas {
 
     .flex-child {
       flex: 1;
-      border: 2px solid yellow;
+      border: 3px solid yellow;
       background-color: rgb(238, 156, 4);
       box-sizing: border-box;
-      width: 50%;
-      height: 100px;
+      height: 200px;
+      text-align: center;
+      padding: 80px;
     }
 
     .flex-child:first-child {
