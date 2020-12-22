@@ -29,9 +29,10 @@ a {
   -o-transition: 0.5s;
   transition: 0.5s; }
   a:hover, a:active, a:focus {
-    color: #FFC300;
+    color: #FFC30;
     outline: none;
-    text-decoration: none !important; }
+    text-decoration: none !important;
+    }
 
 p {
   margin-bottom: 1.5em; }

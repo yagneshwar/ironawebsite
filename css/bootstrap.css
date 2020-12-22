@@ -619,11 +619,11 @@ a.text-danger:focus {
 }
 
 .bg-primary {
-  color: #fff;
+  color: #ff;
 }
 
 .bg-primary {
-  background-color: #337ab7;
+  background-color: #337ab;
 }
 
 a.bg-primary:hover,
